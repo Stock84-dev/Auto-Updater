@@ -1,0 +1,10 @@
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\bin\Debug\Test Dummy.exe.config
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\bin\Debug\Test Dummy.exe
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\bin\Debug\Test Dummy.pdb
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\obj\Debug\Test Dummy.csprojResolveAssemblyReference.cache
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\obj\Debug\Test_Dummy.Form1.resources
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\obj\Debug\Test_Dummy.Properties.Resources.resources
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\obj\Debug\Test Dummy.csproj.GenerateResource.Cache
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\obj\Debug\Test Dummy.csproj.CoreCompileInputs.cache
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\obj\Debug\Test Dummy.exe
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Test Dummy\obj\Debug\Test Dummy.pdb

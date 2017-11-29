@@ -1,0 +1,10 @@
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\obj\Debug\Auto Updater.csprojResolveAssemblyReference.cache
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\obj\Debug\Launcher.LauncherForm.resources
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\obj\Debug\Auto_Updater.Properties.Resources.resources
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\obj\Debug\Auto Updater.csproj.GenerateResource.Cache
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\obj\Debug\Auto Updater.csproj.CoreCompileInputs.cache
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\bin\Debug\Auto Updater.exe.config
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\bin\Debug\Auto Updater.exe
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\bin\Debug\Auto Updater.pdb
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\obj\Debug\Auto Updater.exe
+D:\Documents\Visual studio 2017\Projects\Auto Updater\Auto Updater\obj\Debug\Auto Updater.pdb
