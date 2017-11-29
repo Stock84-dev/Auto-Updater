@@ -33,7 +33,12 @@ namespace Launcher
         public LauncherForm()
         {
             InitializeComponent();
-            //Instruction.SaveInstructions();
+            // creating Instructions.txt file
+            //Instruction.instructions.Add(new Instruction(InstructionType.delete, "TestDummy.exe"));
+            //Instruction.instructions.Add(new Instruction(InstructionType.move, "tmp/TestDummy.exe", "TestDummy.exe"));
+            //// creates Instructions.txt file
+            //Instruction.Save();
+            
         }
 
         private void LauncherForm_Load(object sender, EventArgs e)
@@ -213,7 +218,8 @@ namespace Launcher
 
         public Instruction() { }
 
-        Instruction(InstructionType instructionType, string source, string destination = "")
+        /// <param name = "destination">Defaulted to program directory. </param> 
+        public Instruction(InstructionType instructionType, string source, string destination = "")
         {
             iType = instructionType;
             src = source;
@@ -283,15 +289,7 @@ namespace Launcher
             }
         }
 
-        // this is used to create instruction file
-        public static void SaveInstructions()
-        {
-            instructions.Add(new Instruction(InstructionType.delete, "TestDummy.exe"));
-            instructions.Add(new Instruction(InstructionType.move, "tmp/TestDummy.exe", "TestDummy.exe"));
-            Save();
-        }
-
-        private static void Save()
+        public static void Save()
         {
             // creating filestream that can write a file
             FileStream fs = new FileStream("Instructions.txt", FileMode.Create, FileAccess.Write);
