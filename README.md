@@ -4,4 +4,6 @@ Then form shows up to notify user. User can also view changelog which comes from
 Temporary folder must contain Instructions.txt file. In that file you can specify which file to delete, create, copy, move, extract.
 Once updater is finished it launches application.
 
+To change Instructions.txt change constructor of Instruction.
+
 There is an example when you download project, just launch Auto Updater.exe.
