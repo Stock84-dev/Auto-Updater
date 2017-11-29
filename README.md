@@ -1,5 +1,5 @@
-#Auto Updater
-Simple auto updater that can download files from GitHub and update application.
+# Auto Updater
+Simple auto updater that can download files from GitHub or any server and update application.
 
 ## How it works
 After you start launcher it downloads Version.txt from GitHub and compares it with Version.txt in program directory.
